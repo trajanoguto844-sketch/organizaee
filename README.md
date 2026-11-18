@@ -1,20 +1,24 @@
 # Organizaê 📚
 
-Um organizador de tarefas e estudos desenvolvido como projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas.
+Organizaê é um organizador de tarefas e estudos desenvolvido como projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas.
 
 ## 🎯 Objetivo
 
-Facilitar a organização da rotina de estudos e tarefas por meio de uma interface simples, funcional e intuitiva.
+Facilitar a organização da rotina de estudantes, permitindo acompanhar tarefas, trabalhos e atividades acadêmicas em um único lugar.
+
+## 👥 Público-alvo
+
+Estudantes que precisam organizar suas atividades, acompanhar prazos e visualizar suas tarefas concluídas.
 
 ## ✨ Funcionalidades
 
 - Cadastro de tarefas.
 - Edição e exclusão de tarefas.
 - Marcação de tarefas concluídas.
-- Pesquisa de tarefas.
-- Filtros de organização.
-- Contador de tarefas concluídas.
-- Armazenamento de dados no navegador (LocalStorage).
+- Pesquisa de atividades.
+- Filtros por situação.
+- Indicador de progresso.
+- Armazenamento de dados com LocalStorage.
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -23,17 +27,28 @@ Facilitar a organização da rotina de estudos e tarefas por meio de uma interfa
 - JavaScript
 - LocalStorage
 
-## 🎨 Foco em UX/UI
+## 🎨 Interface e experiência do usuário
 
-O projeto busca oferecer uma experiência simples e organizada, facilitando a visualização e o gerenciamento das tarefas.
+O projeto utiliza uma interface com tons escuros e detalhes em roxo. A organização visual e a identidade de cores foram elaboradas com auxílio de sugestões do ChatGPT.
+
+## 🧠 Processo de desenvolvimento
+
+As funcionalidades foram definidas considerando as necessidades de estudantes que desejam organizar sua rotina acadêmica.
+
+O ChatGPT foi utilizado como ferramenta de apoio, contribuindo com sugestões para a identidade visual, organização da interface e desenvolvimento.
+
+## 💬 Feedback
+
+O projeto foi apresentado a amigos e familiares, que demonstraram uma reação bastante positiva.
 
 ## 🌐 Acesse o projeto
 
 [Organizaê — Aplicação online](https://trajanoguto844-sketch.github.io/organizaee/)
 
-## 📚 Aprendizados
-
-Durante o desenvolvimento, pratiquei conceitos de desenvolvimento web, organização de informações, interatividade e armazenamento local de dados.
-## 📸 Visualização do projeto
+## 📸 Visualização
 
 ![Tela inicial do Organizaê](organizae.png)
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento, pratiquei conceitos de programação web, organização de funcionalidades, armazenamento local e construção de interfaces digitais.
