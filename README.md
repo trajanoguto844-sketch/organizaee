@@ -34,3 +34,6 @@ O projeto busca oferecer uma experiência simples e organizada, facilitando a vi
 ## 📚 Aprendizados
 
 Durante o desenvolvimento, pratiquei conceitos de desenvolvimento web, organização de informações, interatividade e armazenamento local de dados.
+## 📸 Visualização do projeto
+
+![Tela inicial do Organizaê](organizae.png)
